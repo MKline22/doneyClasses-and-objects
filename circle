@@ -12,3 +12,5 @@ class circle():
 point_in_circle()
 
 rect_in_circle()
+
+rect_circle_overlap(0)
