@@ -10,3 +10,5 @@ class circle():
 
 #currently suck will finish tomrroq
 point_in_circle()
+
+rect_in_circle()
