@@ -9,3 +9,4 @@ def __str__(self):
 class circle():
 
 #currently suck will finish tomrroq
+point_in_circle()
